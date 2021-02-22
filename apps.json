@@ -11,14 +11,11 @@
       "versionDate": "2021-02-02T13:30:00-06:00",
       "versionDescription": "First featured version of iPogo",
       "downloadURL": "https://ipogo.app/download/ipogo-1.9.7.ipa",
-      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "iPogo is the worlds best iOS PokemonGo Joystick and Spoofing toolset \n\nFeatures:\n-Teleport/Snipe\n-Feeds (Pokémon/Quest/Raids)\n-Map & S2 Overlay (L14/17 cells)\n-Nearby Pokémon Overlay\n-Favorites (Routes/Hotspots/Coords)\n-Stats Inventory\n-Joystick Overlay\n-Enhanced Throw\n-Autowalk\n-Encounter IV\n-Nearby Gym Slot Scanner\n-Jailbreak Tweak\n-Journal\n-Tap To Walk\n-60 fps",
+      "iconURL": "https://raw.githubusercontent.com/HadesC/AltCollection/main/iPogo/AppIcon60x60%402x.png",
       "tintColor": "4d8380",
       "size": 111567725,
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
       ],
       "permissions": [
       ]
