@@ -19,6 +19,23 @@
       ],
       "permissions": [
       ]
+    },
+   {
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Majd Alfhaily",
+      "version": "173.0",
+      "versionDate": "2021-06-02T13:30:00-06:00",
+      "versionDescription": "First featured version of Instagram Rocket",
+      "downloadURL": "https://srv-store3.gofile.io/download/OP31oh/rocket_v3.7.18.ipa",
+      "localizedDescription": "Adds new features to Instagram\n\n-Save any photo or video to Camera Roll\n-Hold down on an image or video to view high resolution version of it\n-Double tap or hold on a profile picture to view it in full-screen\n-Mute and unmute users from home and activity feed\n-Hide sponsored ads\n-Show following status on user profile\n-Share images with third-party apps\n-View direct messages without notifying sender\n-Change feed layout between grid or list view\n-Shows confirmation message when double tapping a post to like it\n-View exact timestamp of a post (date and time)|n-View stories without marking them as seen\n-Download photos and videos from stories\n-Manually mark stories as seen\n-Show entire gallery instead of last 24 hours in story maker",
+      "iconURL": "https://raw.githubusercontent.com/HadesC/AltCollection/main/iPogo/AppIcon60x60%402x.png",
+      "tintColor": "dc327c",
+      "size": 78215609,
+      "screenshotURLs": [
+      ],
+      "permissions": [
+      ]
     }
   ],
   "news": [
